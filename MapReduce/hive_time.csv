@@ -1,0 +1,6 @@
+task,iter1,iter2,iter3,iter4,iter5
+carrier_delay,30,24,22,22,26
+nas_delay,30,30,28,30,30
+security_delay,28,30,28,30,30
+late_aircraft_delay,30,32,30,28,30
+weather_delay,30,28,28,30,28
